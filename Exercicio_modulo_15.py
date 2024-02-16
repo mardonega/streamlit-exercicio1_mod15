@@ -10,7 +10,7 @@ def main():
 
     # Introdução
     st.header("Introdução")
-    st.write("Este é um exercício que reproduzirá 23 códigos da documentação do Streamlit.")
+    st.write("Este é um exercício que reproduzirá 20 códigos da documentação do Streamlit.")
 
     # Exemplo 1: Hello World
     st.header("Exemplo 1: Hello World")
